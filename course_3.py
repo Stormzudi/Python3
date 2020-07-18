@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #@ By: ZhuNian
 #@ Data: 2020.3.7
-#@ file: course_3.py
 
 '''type(a) #表示显示a的数据类型'''
 
